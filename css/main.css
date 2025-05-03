@@ -1,0 +1,32 @@
+/* General style */
+
+body {
+  background-color: rgb(25, 25, 25);
+  color: azure;
+}
+
+#homeheader {
+  text-align: center;
+}
+
+/* Navigation bar top */
+#navbar_container {
+  background-color: white;
+  color: black;
+  /* these attributes together determine position */
+  display: flex; /* flexible display type */
+  justify-content: space-between; /* evenly spaced */
+  align-items: center; /* aligned to center */
+}
+
+.navbar_button {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.search_container {
+  margin-left: auto;
+  margin-right: 5px;
+}
+
+/* Article specific */

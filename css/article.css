@@ -1,0 +1,13 @@
+.article_container {
+  border: 1px solid;
+  margin: 25px;
+}
+
+h2,
+h3 {
+  margin: 10px;
+}
+
+p {
+  margin: 10px;
+}
